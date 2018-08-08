@@ -1,4 +1,6 @@
 # Gmvault: Backup and restore your gmail account
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbiggnou%2Fgmvault.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbiggnou%2Fgmvault?ref=badge_shield)
+
 
 
 
@@ -90,3 +92,7 @@ $>gmvault restore newfoo.bar@gmail.com --restart
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbiggnou%2Fgmvault.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbiggnou%2Fgmvault?ref=badge_large)
